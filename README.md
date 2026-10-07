@@ -1,3 +1,10 @@
+> ## 👋 Start Here
+> A coding/AI experimentation repository. **For users:** explore the project files to understand what is being tested and how AI-assisted development is being explored.
+>
+> **Safety & privacy:** Use security, network, camera, and data-collection features only with appropriate authorization and consent.
+
+---
+
 # Claude Code
 
 ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code)
