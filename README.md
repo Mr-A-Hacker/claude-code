@@ -1,4 +1,9 @@
 > ## 👋 Start Here
+> A coding/AI experimentation repository. **For users:** explore what is being tested and how AI-assisted development is being used.
+
+---
+
+> ## 👋 Start Here
 > A coding/AI experimentation repository. **For users:** explore the project files to understand what is being tested and how AI-assisted development is being explored.
 >
 > **Safety & privacy:** Use security, network, camera, and data-collection features only with appropriate authorization and consent.
